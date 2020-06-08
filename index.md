@@ -9,4 +9,4 @@ Kalian dapat mengecek saya di UI dengan NPM 1806141126
 Saya membuat laman ini ditujukan untuk memenuhi UAS mata kuliah Sistem Operasi
 
 ## Sistem Operasi
-Jika menginginkan sumber belajar terkait Sistem Operasi dapat dicek dilink[berikut ini](https://ajiinisti.github.io/os201/URLs/)
+Jika menginginkan sumber belajar terkait Sistem Operasi dapat dicek dilink [berikut ini](https://ajiinisti.github.io/os201/URLs/)
