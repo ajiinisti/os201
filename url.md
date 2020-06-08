@@ -1,0 +1,4 @@
+# Seputaran Sistem Informasi
+
+* [os.vlsm.org](https://os.vlsm.org/)
+* [SCeLe Sistem Operasi](https://scele.cs.ui.ac.id/course/view.php?id=822)
