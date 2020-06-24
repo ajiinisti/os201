@@ -1,35 +1,35 @@
 Script started on Tue 09 Jun 2020 09:37:20 AM WIB
-aji.inisti@badak:~$ PS1="$ "
+]0;aji.inisti@badak: ~aji.inisti@badak:~$ PS1="$ "
 $ echo $GitHubUser
 ajiinisti
 $ echo $PSTAMP
 TMP1="$(date +%y%m%d-%H%M%S)"; TMP2="$(echo $TMP1-$GitHubUser-${PWD##*/}|sha1sum|cut -c1-4)"; echo "$TMP1-$TMP2-${PWD##*/}/> ";
 $ eval $PSTAMP
-200609-093744-dda4-aji.inisti/>
+200609-093744-dda4-aji.inisti/> 
 $ PS1="\$(eval \$PSTAMP)"
 200609-093749-c0ef-aji.inisti/> echo -e $CEKSAYA
-ajiinisti ZCZCSCRIPTSTART 200602-224320 ajiinisti
- ajiinisti ajiinisti 200602-224349-f8cb-aji.inisti/ 200602-224349 SEQOK SUMOK f8cbd513
- ajiinisti ajiinisti 200602-224400-d09e-aji.inisti/ 200602-224400 SEQOK SUMOK d09ea10b
- ajiinisti ajiinisti 200602-224404-8b7a-aji.inisti/ 200602-224404 SEQOK SUMOK 8b7abcb9
- ajiinisti ajiinisti 200602-224410-1d0a-aji.inisti/ 200602-224410 SEQOK SUMOK 1d0a5ff3
- ajiinisti ZCZCSCRIPTSTOP 200602-224416 SEQOK
+ajiinisti ZCZCSCRIPTSTART 200602-224320 ajiinisti 
+ ajiinisti ajiinisti 200602-224349-f8cb-aji.inisti/ 200602-224349 SEQOK SUMOK f8cbd513 
+ ajiinisti ajiinisti 200602-224400-d09e-aji.inisti/ 200602-224400 SEQOK SUMOK d09ea10b 
+ ajiinisti ajiinisti 200602-224404-8b7a-aji.inisti/ 200602-224404 SEQOK SUMOK 8b7abcb9 
+ ajiinisti ajiinisti 200602-224410-1d0a-aji.inisti/ 200602-224410 SEQOK SUMOK 1d0a5ff3 
+ ajiinisti ZCZCSCRIPTSTOP 200602-224416 SEQOK 
 
 200609-093755-1c30-aji.inisti/> echo -e $CEKSEBELA1
-ajiinisti ZCZCSCRIPTSTART 200530-064509 akhmadiponegoro
- ajiinisti akhmadiponegoro 200530-064509-02df-akhmad.diponegoro/ 200530-064509 SEQOK SUMOK 02df7482
- ajiinisti akhmadiponegoro 200530-064511-8579-akhmad.diponegoro/ 200530-064511 SEQOK SUMOK 8579c15f
- ajiinisti akhmadiponegoro 200530-064515-bb24-akhmad.diponegoro/ 200530-064515 SEQOK SUMOK bb247466
- ajiinisti akhmadiponegoro 200530-064529-ade2-akhmad.diponegoro/ 200530-064529 SEQOK SUMOK ade256ed
- ajiinisti ZCZCSCRIPTSTOP 200530-064623 SEQOK
+ajiinisti ZCZCSCRIPTSTART 200530-064509 akhmadiponegoro 
+ ajiinisti akhmadiponegoro 200530-064509-02df-akhmad.diponegoro/ 200530-064509 SEQOK SUMOK 02df7482 
+ ajiinisti akhmadiponegoro 200530-064511-8579-akhmad.diponegoro/ 200530-064511 SEQOK SUMOK 8579c15f 
+ ajiinisti akhmadiponegoro 200530-064515-bb24-akhmad.diponegoro/ 200530-064515 SEQOK SUMOK bb247466 
+ ajiinisti akhmadiponegoro 200530-064529-ade2-akhmad.diponegoro/ 200530-064529 SEQOK SUMOK ade256ed 
+ ajiinisti ZCZCSCRIPTSTOP 200530-064623 SEQOK 
 
 200609-093800-835b-aji.inisti/> echo -e $CEKSEBELA2
-ajiinisti ZCZCSCRIPTSTART 200601-014035 alfisyk
- ajiinisti alfisyk 200601-014101-2493-muhammad.alfi81/ 200601-014101 SEQOK SUMOK 2493022c
- ajiinisti alfisyk 200601-014110-9e15-muhammad.alfi81/ 200601-014110 SEQOK SUMOK 9e1551f3
- ajiinisti alfisyk 200601-014112-e9b9-muhammad.alfi81/ 200601-014112 SEQOK SUMOK e9b96d26
- ajiinisti alfisyk 200601-014119-f2bf-muhammad.alfi81/ 200601-014119 SEQOK SUMOK f2bfc35d
- ajiinisti ZCZCSCRIPTSTOP 200601-014123 SEQOK
+ajiinisti ZCZCSCRIPTSTART 200601-014035 alfisyk 
+ ajiinisti alfisyk 200601-014101-2493-muhammad.alfi81/ 200601-014101 SEQOK SUMOK 2493022c 
+ ajiinisti alfisyk 200601-014110-9e15-muhammad.alfi81/ 200601-014110 SEQOK SUMOK 9e1551f3 
+ ajiinisti alfisyk 200601-014112-e9b9-muhammad.alfi81/ 200601-014112 SEQOK SUMOK e9b96d26 
+ ajiinisti alfisyk 200601-014119-f2bf-muhammad.alfi81/ 200601-014119 SEQOK SUMOK f2bfc35d 
+ ajiinisti ZCZCSCRIPTSTOP 200601-014123 SEQOK 
 
 200609-093805-ba9a-aji.inisti/> exit
 exit
